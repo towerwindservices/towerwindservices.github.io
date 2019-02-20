@@ -19,3 +19,6 @@ De forma geral, a presença de pequenos geradores próximos às cargas pode prop
 Conforme disposto nesses regulamentos, a micro e a minigeração distribuída consistem na produção de energia elétrica a partir de pequenas centrais geradoras que utilizam fontes renováveis de energia elétrica ou cogeração qualificada, conectadas à rede de distribuição por meio de instalações de unidades consumidoras.
 
 [back](./)
+
+***
+[contacto](./contacto.html)
