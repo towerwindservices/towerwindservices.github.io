@@ -21,6 +21,7 @@ title: Contacto
     <input type="submit" value="Submit">
 </form>
 
+<input type="hidden" name="_next" value="//path/thanks.html" />
 
 <style>
 form.wj-contact input[type="text"], form.wj-contact textarea[type="text"] {
