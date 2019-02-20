@@ -19,9 +19,10 @@ title: Contacto
     <input type="hidden" name="_subject" value="New Contact Form Submission">
     <input type="text" name="_gotcha" style="display:none">
     <input type="submit" value="Submit">
+    <input type="hidden" name="_next" value="./thanks.html" />
 </form>
 
-<input type="hidden" name="_next" value="./thanks.html" />
+
 
 <style>
 form.wj-contact input[type="text"], form.wj-contact textarea[type="text"] {
