@@ -52,5 +52,5 @@ form.wj-contact input[type="submit"] {
     height: auto;
 }
 </style>
-
+<input type="hidden" name="_next" value="https://www.towerwindservices.com/thanks.html"/>
 [back](./)
