@@ -17,7 +17,7 @@ title: Contacto
     <textarea type="text" name="content" rows="10" placeholder="Message"></textarea>
     <input type="hidden" name="_next" value="https://www.towerwindservices.com/thanks.html"/>    
     <!--input type="hidden" name="_next" value="<REDIRECTION LINK> "-->
-    <input type="hidden" name="_subject" value="New Contact Form Submission">
+    <!--input type="hidden" name="_subject" value="New Contact Form Submission"-->
     <input type="text" name="_gotcha" style="display:none">
     <input type="submit" value="Submit">
 
@@ -52,4 +52,3 @@ form.wj-contact input[type="submit"] {
     height: auto;
 }
 </style>
-[back](./)
