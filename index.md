@@ -29,7 +29,7 @@ A Tower Wind Services nasceu da necessidade do mercado de serviços especializad
 
 Com experiência na área de telecomunicações na instalação de sistemas irradiantes para diversas operadoras de telefonia celular a partir de 2012 iniciamos atividades na área de energia eólica na prospecção de ventos com experiências  adquiridas junto a pioneiros no Brasil.
 
-Nossa missão é prestar serviços na área de energia eólica na prospecção de dados para projetos de parques, assim como o desenvolvimento de novas tecnologias da informação.
+Nossa missão é prestar serviços na área de energia eólica na prospecção de dados para projetos de parques.
 
 ***
 [contacto](./contacto.html)
