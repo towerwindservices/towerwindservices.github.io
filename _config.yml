@@ -11,8 +11,8 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: Tower Wind Services
-description: Wind tower services for wind farm projects
+title: Tower Wind Services - Energia Eólica
+description: Serviços de torres de ventos para parques eólicos
 owner:
   name: Tower Wind Services # or company name
   url: "http://example.com" # your URL
