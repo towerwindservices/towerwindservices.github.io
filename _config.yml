@@ -123,7 +123,9 @@ defaults:
       path: _drafts
     values:
       layout: post
-
+# add seo plugin
+plugins:
+  - jekyll-seo-tag
 # to initialize arrays in assignments (assign myarr = site.empty_array)
 # (easier to grok than assign myarr = '' | split',')
 empty_array: []
